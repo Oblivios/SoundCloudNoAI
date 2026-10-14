@@ -1,0 +1,892 @@
+{
+ "url": "https://soundcloud.com/zgsales/soft-sparks-from-a-distant",
+ "expect": "ai",
+ "capturedAt": "2026-10-07T21:31:48.083Z",
+ "track": {
+  "id": 2410307409,
+  "title": "Soft Sparks From a Distant Summer",
+  "permalink": "soft-sparks-from-a-distant",
+  "permalink_url": "https://soundcloud.com/zgsales/soft-sparks-from-a-distant",
+  "created_at": "2026-09-30T05:18:37Z",
+  "description": "Warm low frequencies, electronic reggae and wandering dub echoes. A STSoundsystem collection.\n[owmp-job:stsoundsystem_bloom_200_20260930:191]",
+  "tag_list": "reggae dub ragga dancehall \"electronic reggae\" \"sound system\" psybient",
+  "genre": "Electronic Reggae",
+  "playback_count": 155,
+  "likes_count": 0,
+  "comment_count": 0,
+  "user_id": 1749175152,
+  "publisher_metadata": {
+   "writer_composer": "Oliver Wolff"
+  }
+ },
+ "user": {
+  "id": 1749175152,
+  "username": "STSoundsystem",
+  "permalink": "zgsales",
+  "description": null,
+  "track_count": 579,
+  "followers_count": 36,
+  "followings_count": 0,
+  "verified": false,
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": true,
+   "verified": false
+  },
+  "avatar_url": "https://i1.sndcdn.com/avatars-I9g0t3AOj3xgMnyb-r9W8IQ-large.jpg"
+ },
+ "hiddenPages": 0,
+ "recent": [
+  {
+   "id": 2413089246,
+   "title": "Echo in the Rain-Soaked",
+   "permalink": "echo-in-the-rain-soaked",
+   "permalink_url": "https://soundcloud.com/zgsales/echo-in-the-rain-soaked",
+   "created_at": "2026-10-04T21:01:28Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 73,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413089114,
+   "title": "Warm Under Bassline",
+   "permalink": "warm-under-bassline",
+   "permalink_url": "https://soundcloud.com/zgsales/warm-under-bassline",
+   "created_at": "2026-10-04T21:01:04Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 123,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413088973,
+   "title": "A Analog for the Signal",
+   "permalink": "a-analog-for-the-signal",
+   "permalink_url": "https://soundcloud.com/zgsales/a-analog-for-the-signal",
+   "created_at": "2026-10-04T21:00:38Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 126,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413088802,
+   "title": "Rootsy Selector",
+   "permalink": "rootsy-selector",
+   "permalink_url": "https://soundcloud.com/zgsales/rootsy-selector",
+   "created_at": "2026-10-04T21:00:13Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 148,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413088616,
+   "title": "Bass-Heavy Nightbus",
+   "permalink": "bass-heavy-nightbus",
+   "permalink_url": "https://soundcloud.com/zgsales/bass-heavy-nightbus",
+   "created_at": "2026-10-04T20:59:48Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 129,
+   "likes_count": 2,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413076214,
+   "title": "Bassline in the Rain-Soaked",
+   "permalink": "bassline-in-the-rain-soaked",
+   "permalink_url": "https://soundcloud.com/zgsales/bassline-in-the-rain-soaked",
+   "created_at": "2026-10-04T20:27:50Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 110,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413060716,
+   "title": "Green Soundclash",
+   "permalink": "green-soundclash",
+   "permalink_url": "https://soundcloud.com/zgsales/green-soundclash",
+   "created_at": "2026-10-04T20:01:59Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 46,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413060023,
+   "title": "Rough-Cut Dubplate",
+   "permalink": "rough-cut-dubplate",
+   "permalink_url": "https://soundcloud.com/zgsales/rough-cut-dubplate",
+   "created_at": "2026-10-04T20:01:32Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 83,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413051920,
+   "title": "River in the Moonlit",
+   "permalink": "river-in-the-moonlit",
+   "permalink_url": "https://soundcloud.com/zgsales/river-in-the-moonlit",
+   "created_at": "2026-10-04T19:39:36Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 87,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2413051749,
+   "title": "Golden Under Nightbus",
+   "permalink": "golden-under-nightbus",
+   "permalink_url": "https://soundcloud.com/zgsales/golden-under-nightbus",
+   "created_at": "2026-10-04T19:39:08Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 21,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412782085,
+   "title": "Sweet Drum",
+   "permalink": "sweet-drum",
+   "permalink_url": "https://soundcloud.com/zgsales/sweet-drum",
+   "created_at": "2026-10-04T07:50:03Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 130,
+   "likes_count": 4,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781947,
+   "title": "Where Green Meets River",
+   "permalink": "where-green-meets-river",
+   "permalink_url": "https://soundcloud.com/zgsales/where-green-meets-river",
+   "created_at": "2026-10-04T07:49:43Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 127,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781920,
+   "title": "The Echoing Corner",
+   "permalink": "the-echoing-corner",
+   "permalink_url": "https://soundcloud.com/zgsales/the-echoing-corner",
+   "created_at": "2026-10-04T07:49:22Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 76,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781875,
+   "title": "Where Irie Meets Bassline",
+   "permalink": "where-irie-meets-bassline",
+   "permalink_url": "https://soundcloud.com/zgsales/where-irie-meets-bassline",
+   "created_at": "2026-10-04T07:49:03Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 107,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781809,
+   "title": "Skanking Under Sunrise",
+   "permalink": "skanking-under-sunrise",
+   "permalink_url": "https://soundcloud.com/zgsales/skanking-under-sunrise",
+   "created_at": "2026-10-04T07:48:42Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 104,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781740,
+   "title": "Moonlit Nightbus",
+   "permalink": "moonlit-nightbus",
+   "permalink_url": "https://soundcloud.com/zgsales/moonlit-nightbus",
+   "created_at": "2026-10-04T07:48:10Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 17,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781656,
+   "title": "Moonlit Skank",
+   "permalink": "moonlit-skank",
+   "permalink_url": "https://soundcloud.com/zgsales/moonlit-skank",
+   "created_at": "2026-10-04T07:47:50Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 81,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781548,
+   "title": "Bass-Heavy Under Skank",
+   "permalink": "bass-heavy-under-skank",
+   "permalink_url": "https://soundcloud.com/zgsales/bass-heavy-under-skank",
+   "created_at": "2026-10-04T07:47:30Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 149,
+   "likes_count": 2,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781488,
+   "title": "Where Smoky Meets Leaf",
+   "permalink": "where-smoky-meets-leaf",
+   "permalink_url": "https://soundcloud.com/zgsales/where-smoky-meets-leaf",
+   "created_at": "2026-10-04T07:47:10Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 86,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781266,
+   "title": "The Golden Leaf",
+   "permalink": "the-golden-leaf",
+   "permalink_url": "https://soundcloud.com/zgsales/the-golden-leaf",
+   "created_at": "2026-10-04T07:45:41Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 117,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781173,
+   "title": "A Smoky for the Riddim",
+   "permalink": "a-smoky-for-the-riddim",
+   "permalink_url": "https://soundcloud.com/zgsales/a-smoky-for-the-riddim",
+   "created_at": "2026-10-04T07:45:20Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 69,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412781083,
+   "title": "Riddim in the Patient",
+   "permalink": "riddim-in-the-patient",
+   "permalink_url": "https://soundcloud.com/zgsales/riddim-in-the-patient",
+   "created_at": "2026-10-04T07:45:00Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 114,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780966,
+   "title": "Skanking Under Leaf",
+   "permalink": "skanking-under-leaf",
+   "permalink_url": "https://soundcloud.com/zgsales/skanking-under-leaf",
+   "created_at": "2026-10-04T07:44:39Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 128,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780831,
+   "title": "Sunrise in the Tropical",
+   "permalink": "sunrise-in-the-tropical",
+   "permalink_url": "https://soundcloud.com/zgsales/sunrise-in-the-tropical",
+   "created_at": "2026-10-04T07:44:18Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 107,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780648,
+   "title": "Where Irie Meets Thunder",
+   "permalink": "where-irie-meets-thunder",
+   "permalink_url": "https://soundcloud.com/zgsales/where-irie-meets-thunder",
+   "created_at": "2026-10-04T07:43:58Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 77,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780519,
+   "title": "Midnight Selector",
+   "permalink": "midnight-selector",
+   "permalink_url": "https://soundcloud.com/zgsales/midnight-selector",
+   "created_at": "2026-10-04T07:43:43Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 124,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780375,
+   "title": "A Echoing for the Lantern",
+   "permalink": "a-echoing-for-the-lantern",
+   "permalink_url": "https://soundcloud.com/zgsales/a-echoing-for-the-lantern",
+   "created_at": "2026-10-04T07:43:24Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 124,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780249,
+   "title": "Sweet Under Dubplate",
+   "permalink": "sweet-under-dubplate",
+   "permalink_url": "https://soundcloud.com/zgsales/sweet-under-dubplate",
+   "created_at": "2026-10-04T07:43:05Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 128,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412780108,
+   "title": "A Tropical for the Corner",
+   "permalink": "a-tropical-for-the-corner",
+   "permalink_url": "https://soundcloud.com/zgsales/a-tropical-for-the-corner",
+   "created_at": "2026-10-04T07:42:45Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 130,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412779904,
+   "title": "Warm Under Vine",
+   "permalink": "warm-under-vine",
+   "permalink_url": "https://soundcloud.com/zgsales/warm-under-vine",
+   "created_at": "2026-10-04T07:42:19Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 53,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412779754,
+   "title": "A Golden for the Nightbus",
+   "permalink": "a-golden-for-the-nightbus",
+   "permalink_url": "https://soundcloud.com/zgsales/a-golden-for-the-nightbus",
+   "created_at": "2026-10-04T07:42:01Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 223,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412779643,
+   "title": "Tropical Bassline",
+   "permalink": "tropical-bassline",
+   "permalink_url": "https://soundcloud.com/zgsales/tropical-bassline",
+   "created_at": "2026-10-04T07:41:42Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 108,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412779511,
+   "title": "Skank in the Warm",
+   "permalink": "skank-in-the-warm",
+   "permalink_url": "https://soundcloud.com/zgsales/skank-in-the-warm",
+   "created_at": "2026-10-04T07:41:22Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 131,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412779325,
+   "title": "The Tropical Selector",
+   "permalink": "the-tropical-selector",
+   "permalink_url": "https://soundcloud.com/zgsales/the-tropical-selector",
+   "created_at": "2026-10-04T07:41:02Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 148,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412779109,
+   "title": "Echo in the Sweet",
+   "permalink": "echo-in-the-sweet",
+   "permalink_url": "https://soundcloud.com/zgsales/echo-in-the-sweet",
+   "created_at": "2026-10-04T07:40:42Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 88,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412778989,
+   "title": "Nightbus in the Midnight",
+   "permalink": "nightbus-in-the-midnight",
+   "permalink_url": "https://soundcloud.com/zgsales/nightbus-in-the-midnight",
+   "created_at": "2026-10-04T07:40:26Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 217,
+   "likes_count": 2,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412778848,
+   "title": "Rough-Cut Vine",
+   "permalink": "rough-cut-vine",
+   "permalink_url": "https://soundcloud.com/zgsales/rough-cut-vine",
+   "created_at": "2026-10-04T07:40:06Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 128,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412778677,
+   "title": "Golden Under Skank",
+   "permalink": "golden-under-skank",
+   "permalink_url": "https://soundcloud.com/zgsales/golden-under-skank",
+   "created_at": "2026-10-04T07:39:44Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 124,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412778557,
+   "title": "Bass-Heavy Under Echo",
+   "permalink": "bass-heavy-under-echo",
+   "permalink_url": "https://soundcloud.com/zgsales/bass-heavy-under-echo",
+   "created_at": "2026-10-04T07:39:23Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 96,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412778431,
+   "title": "Bass-Heavy Sunrise",
+   "permalink": "bass-heavy-sunrise",
+   "permalink_url": "https://soundcloud.com/zgsales/bass-heavy-sunrise",
+   "created_at": "2026-10-04T07:38:59Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 59,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412778104,
+   "title": "The Slow-Burning Riddim",
+   "permalink": "the-slow-burning-riddim",
+   "permalink_url": "https://soundcloud.com/zgsales/the-slow-burning-riddim",
+   "created_at": "2026-10-04T07:38:11Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 129,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777939,
+   "title": "Moonlit Under Drum",
+   "permalink": "moonlit-under-drum",
+   "permalink_url": "https://soundcloud.com/zgsales/moonlit-under-drum",
+   "created_at": "2026-10-04T07:37:50Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 161,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777786,
+   "title": "River in the Skanking",
+   "permalink": "river-in-the-skanking",
+   "permalink_url": "https://soundcloud.com/zgsales/river-in-the-skanking",
+   "created_at": "2026-10-04T07:37:30Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 124,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777669,
+   "title": "Echo in the Rough-Cut",
+   "permalink": "echo-in-the-rough-cut",
+   "permalink_url": "https://soundcloud.com/zgsales/echo-in-the-rough-cut",
+   "created_at": "2026-10-04T07:37:10Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 142,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777612,
+   "title": "The Rootsy Garden",
+   "permalink": "the-rootsy-garden",
+   "permalink_url": "https://soundcloud.com/zgsales/the-rootsy-garden",
+   "created_at": "2026-10-04T07:36:55Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 209,
+   "likes_count": 3,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777516,
+   "title": "The Low-End Thunder",
+   "permalink": "the-low-end-thunder",
+   "permalink_url": "https://soundcloud.com/zgsales/the-low-end-thunder",
+   "created_at": "2026-10-04T07:36:31Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 121,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777438,
+   "title": "A Irie for the Vine",
+   "permalink": "a-irie-for-the-vine",
+   "permalink_url": "https://soundcloud.com/zgsales/a-irie-for-the-vine",
+   "created_at": "2026-10-04T07:36:11Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 60,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777351,
+   "title": "A Low-End for the Courtyard",
+   "permalink": "a-low-end-for-the-courtyard",
+   "permalink_url": "https://soundcloud.com/zgsales/a-low-end-for-the-courtyard",
+   "created_at": "2026-10-04T07:35:50Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 133,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777297,
+   "title": "Midnight Under Soundclash",
+   "permalink": "midnight-under-soundclash",
+   "permalink_url": "https://soundcloud.com/zgsales/midnight-under-soundclash",
+   "created_at": "2026-10-04T07:35:35Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 89,
+   "likes_count": 2,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  },
+  {
+   "id": 2412777240,
+   "title": "Where Analog Meets Drum",
+   "permalink": "where-analog-meets-drum",
+   "permalink_url": "https://soundcloud.com/zgsales/where-analog-meets-drum",
+   "created_at": "2026-10-04T07:35:21Z",
+   "description": "Dub Garden at Midnight\nSTSoundsystem · Reggae",
+   "tag_list": "reggae, dub, roots, dancehall, soundsystem, bass, steppers",
+   "genre": "Reggae",
+   "playback_count": 164,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1749175152,
+   "publisher_metadata": {
+    "writer_composer": "Oliver Wolff"
+   }
+  }
+ ]
+}

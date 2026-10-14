@@ -1,0 +1,756 @@
+{
+ "url": "https://soundcloud.com/nastydreams/capetown-calling",
+ "expect": "ai",
+ "capturedAt": "2026-10-07T21:31:47.204Z",
+ "track": {
+  "id": 2408116275,
+  "title": "Capetown Calling",
+  "permalink": "capetown-calling",
+  "permalink_url": "https://soundcloud.com/nastydreams/capetown-calling",
+  "created_at": "2026-09-26T11:24:07Z",
+  "description": null,
+  "tag_list": "",
+  "genre": "Electronic",
+  "playback_count": 32,
+  "likes_count": 0,
+  "comment_count": 0,
+  "user_id": 1433185736,
+  "publisher_metadata": {
+   "writer_composer": "Nasty Dreams"
+  }
+ },
+ "user": {
+  "id": 1433185736,
+  "username": "Nasty Dreams",
+  "permalink": "nastydreams",
+  "description": "If you hear me play, just know…\nwe’re probably dreaming the same dream.\n\nI’m NastyDreams, born in Bucharest, built from neon nights, loud emotions, and music that hits deeper at 3AM.\n\nProgressive trance and mainstage are my escape, my therapy, and my chaos all at once. \n\nI live for the moments when the lights blind you, the bass shakes your chest, and thousands of strangers feel the exact same emotion together.\n\nTattoos, dark energy, soft heart.\n\nI turn memories into melodies and sleepless nights into soundtracks.",
+  "track_count": 644,
+  "followers_count": 54,
+  "followings_count": 25,
+  "verified": false,
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": true,
+   "verified": false
+  },
+  "avatar_url": "https://i1.sndcdn.com/avatars-QBJzbmR7Z8TmwKvs-aGYRdw-large.jpg"
+ },
+ "hiddenPages": 1,
+ "recent": [
+  {
+   "id": 2408121096,
+   "title": "Marrakesh Rhythm",
+   "permalink": "marrakesh-rhythm",
+   "permalink_url": "https://soundcloud.com/nastydreams/marrakesh-rhythm",
+   "created_at": "2026-09-26T11:26:45Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 30,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408121090,
+   "title": "Casablanca Sunset",
+   "permalink": "casablanca-sunset",
+   "permalink_url": "https://soundcloud.com/nastydreams/casablanca-sunset",
+   "created_at": "2026-09-26T11:26:45Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 11,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408120751,
+   "title": "Nubian Fire",
+   "permalink": "nubian-fire",
+   "permalink_url": "https://soundcloud.com/nastydreams/nubian-fire",
+   "created_at": "2026-09-26T11:26:34Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 20,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408120613,
+   "title": "Tangier Desire",
+   "permalink": "tangier-desire",
+   "permalink_url": "https://soundcloud.com/nastydreams/tangier-desire",
+   "created_at": "2026-09-26T11:26:29Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 44,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408119833,
+   "title": "Mozambique Soul",
+   "permalink": "mozambique-soul",
+   "permalink_url": "https://soundcloud.com/nastydreams/mozambique-soul",
+   "created_at": "2026-09-26T11:26:03Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 29,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408119689,
+   "title": "Aswan Gold",
+   "permalink": "aswan-gold",
+   "permalink_url": "https://soundcloud.com/nastydreams/aswan-gold",
+   "created_at": "2026-09-26T11:25:59Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 10,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408118264,
+   "title": "Durban Heatwave",
+   "permalink": "durban-heatwave",
+   "permalink_url": "https://soundcloud.com/nastydreams/durban-heatwave",
+   "created_at": "2026-09-26T11:25:12Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 31,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408117559,
+   "title": "Bedouin Echo",
+   "permalink": "bedouin-echo",
+   "permalink_url": "https://soundcloud.com/nastydreams/bedouin-echo",
+   "created_at": "2026-09-26T11:24:49Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 11,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408116362,
+   "title": "Agadir Moon",
+   "permalink": "agadir-moon",
+   "permalink_url": "https://soundcloud.com/nastydreams/agadir-moon",
+   "created_at": "2026-09-26T11:24:10Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 62,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408116275,
+   "title": "Capetown Calling",
+   "permalink": "capetown-calling",
+   "permalink_url": "https://soundcloud.com/nastydreams/capetown-calling",
+   "created_at": "2026-09-26T11:24:07Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 32,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408116185,
+   "title": "Berber Spirit",
+   "permalink": "berber-spirit",
+   "permalink_url": "https://soundcloud.com/nastydreams/berber-spirit",
+   "created_at": "2026-09-26T11:24:04Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 30,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408115951,
+   "title": "Essaouira Winds",
+   "permalink": "essaouira-winds",
+   "permalink_url": "https://soundcloud.com/nastydreams/essaouira-winds",
+   "created_at": "2026-09-26T11:23:57Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 110,
+   "likes_count": 2,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408115456,
+   "title": "Soweto Nights",
+   "permalink": "soweto-nights",
+   "permalink_url": "https://soundcloud.com/nastydreams/soweto-nights",
+   "created_at": "2026-09-26T11:23:40Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 35,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2408115309,
+   "title": "Sahel Dreams",
+   "permalink": "sahel-dreams",
+   "permalink_url": "https://soundcloud.com/nastydreams/sahel-dreams",
+   "created_at": "2026-09-26T11:23:36Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 66,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406021372,
+   "title": "Beneko",
+   "permalink": "beneko",
+   "permalink_url": "https://soundcloud.com/nastydreams/beneko",
+   "created_at": "2026-09-23T14:36:59Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 32,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406020133,
+   "title": "Nefano",
+   "permalink": "nefano",
+   "permalink_url": "https://soundcloud.com/nastydreams/nefano",
+   "created_at": "2026-09-23T14:36:12Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 81,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406019851,
+   "title": "Senulo",
+   "permalink": "senulo",
+   "permalink_url": "https://soundcloud.com/nastydreams/senulo",
+   "created_at": "2026-09-23T14:36:00Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 108,
+   "likes_count": 3,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406019005,
+   "title": "Teyalo",
+   "permalink": "teyalo",
+   "permalink_url": "https://soundcloud.com/nastydreams/teyalo",
+   "created_at": "2026-09-23T14:35:23Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 138,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406015714,
+   "title": "Rasumi",
+   "permalink": "rasumi",
+   "permalink_url": "https://soundcloud.com/nastydreams/rasumi",
+   "created_at": "2026-09-23T14:33:12Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 62,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406015168,
+   "title": "Telavo",
+   "permalink": "telavo",
+   "permalink_url": "https://soundcloud.com/nastydreams/telavo",
+   "created_at": "2026-09-23T14:32:50Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 28,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406014988,
+   "title": "Tavero",
+   "permalink": "tavero",
+   "permalink_url": "https://soundcloud.com/nastydreams/tavero",
+   "created_at": "2026-09-23T14:32:44Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 85,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406014724,
+   "title": "Cazuma",
+   "permalink": "cazuma",
+   "permalink_url": "https://soundcloud.com/nastydreams/cazuma",
+   "created_at": "2026-09-23T14:32:32Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 13,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406013938,
+   "title": "Najelo",
+   "permalink": "najelo",
+   "permalink_url": "https://soundcloud.com/nastydreams/najelo",
+   "created_at": "2026-09-23T14:31:59Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 79,
+   "likes_count": 2,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406013161,
+   "title": "Desari",
+   "permalink": "desari",
+   "permalink_url": "https://soundcloud.com/nastydreams/desari",
+   "created_at": "2026-09-23T14:31:27Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 44,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406011838,
+   "title": "Azengo",
+   "permalink": "azengo",
+   "permalink_url": "https://soundcloud.com/nastydreams/azengo",
+   "created_at": "2026-09-23T14:30:33Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 17,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406011619,
+   "title": "Upira",
+   "permalink": "upira",
+   "permalink_url": "https://soundcloud.com/nastydreams/upira",
+   "created_at": "2026-09-23T14:30:25Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 108,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406011046,
+   "title": "Perano",
+   "permalink": "perano",
+   "permalink_url": "https://soundcloud.com/nastydreams/perano",
+   "created_at": "2026-09-23T14:30:02Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 56,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2406010845,
+   "title": "Vusora",
+   "permalink": "vusora",
+   "permalink_url": "https://soundcloud.com/nastydreams/vusora",
+   "created_at": "2026-09-23T14:29:53Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 80,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404589241,
+   "title": "Iravo",
+   "permalink": "iravo",
+   "permalink_url": "https://soundcloud.com/nastydreams/iravo",
+   "created_at": "2026-09-21T12:43:19Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 55,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404589220,
+   "title": "Gepura",
+   "permalink": "gepura",
+   "permalink_url": "https://soundcloud.com/nastydreams/gepura",
+   "created_at": "2026-09-21T12:43:19Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 28,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404588659,
+   "title": "Zuleikaq",
+   "permalink": "zuleikaq",
+   "permalink_url": "https://soundcloud.com/nastydreams/zuleikaq",
+   "created_at": "2026-09-21T12:43:03Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 24,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404588557,
+   "title": "Tahira",
+   "permalink": "tahira",
+   "permalink_url": "https://soundcloud.com/nastydreams/tahira",
+   "created_at": "2026-09-21T12:43:00Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 114,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404588314,
+   "title": "Opelo",
+   "permalink": "opelo",
+   "permalink_url": "https://soundcloud.com/nastydreams/opelo",
+   "created_at": "2026-09-21T12:42:51Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 36,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404588011,
+   "title": "Kefaro",
+   "permalink": "kefaro",
+   "permalink_url": "https://soundcloud.com/nastydreams/kefaro",
+   "created_at": "2026-09-21T12:42:41Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 52,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404587417,
+   "title": "Casulo",
+   "permalink": "casulo",
+   "permalink_url": "https://soundcloud.com/nastydreams/casulo",
+   "created_at": "2026-09-21T12:42:23Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 69,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404587207,
+   "title": "Tawelo",
+   "permalink": "tawelo",
+   "permalink_url": "https://soundcloud.com/nastydreams/tawelo",
+   "created_at": "2026-09-21T12:42:17Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 137,
+   "likes_count": 3,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404587027,
+   "title": "Sundown Ritual",
+   "permalink": "sundown-ritual",
+   "permalink_url": "https://soundcloud.com/nastydreams/sundown-ritual",
+   "created_at": "2026-09-21T12:42:12Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 42,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404586022,
+   "title": "Hollow Dreams",
+   "permalink": "hollow-dreams",
+   "permalink_url": "https://soundcloud.com/nastydreams/hollow-dreams",
+   "created_at": "2026-09-21T12:41:42Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 90,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404585959,
+   "title": "Cewani",
+   "permalink": "cewani",
+   "permalink_url": "https://soundcloud.com/nastydreams/cewani",
+   "created_at": "2026-09-21T12:41:40Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 75,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404585557,
+   "title": "Saharq",
+   "permalink": "saharq",
+   "permalink_url": "https://soundcloud.com/nastydreams/saharq",
+   "created_at": "2026-09-21T12:41:27Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 20,
+   "likes_count": 3,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404584282,
+   "title": "Calyra",
+   "permalink": "calyra",
+   "permalink_url": "https://soundcloud.com/nastydreams/calyra",
+   "created_at": "2026-09-21T12:40:47Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 42,
+   "likes_count": 0,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  },
+  {
+   "id": 2404582812,
+   "title": "Golden Current",
+   "permalink": "golden-current",
+   "permalink_url": "https://soundcloud.com/nastydreams/golden-current",
+   "created_at": "2026-09-21T12:40:03Z",
+   "description": null,
+   "tag_list": "",
+   "genre": "Electronic",
+   "playback_count": 103,
+   "likes_count": 1,
+   "comment_count": 0,
+   "user_id": 1433185736,
+   "publisher_metadata": {
+    "writer_composer": "Nasty Dreams"
+   }
+  }
+ ]
+}

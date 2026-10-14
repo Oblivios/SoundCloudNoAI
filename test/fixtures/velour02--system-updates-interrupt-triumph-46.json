@@ -1,0 +1,892 @@
+{
+ "url": "https://soundcloud.com/velour02/system-updates-interrupt-triumph-46",
+ "expect": "ai",
+ "capturedAt": "2026-10-07T21:31:47.841Z",
+ "track": {
+  "id": 2409909927,
+  "title": "System Updates Interrupt Triumph",
+  "permalink": "system-updates-interrupt-triumph-46",
+  "permalink_url": "https://soundcloud.com/velour02/system-updates-interrupt-triumph-46",
+  "created_at": "2026-09-29T14:03:08Z",
+  "description": "",
+  "tag_list": "\"Dance & EDM\" Dubstep",
+  "genre": "Dubstep",
+  "playback_count": null,
+  "likes_count": null,
+  "comment_count": null,
+  "user_id": 1672453343,
+  "publisher_metadata": {
+   "writer_composer": "Josh Baker"
+  }
+ },
+ "user": {
+  "id": 1672453343,
+  "username": "Velour",
+  "permalink": "velour02",
+  "description": null,
+  "track_count": 1674,
+  "followers_count": 191,
+  "followings_count": 0,
+  "verified": false,
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": true,
+   "verified": false
+  },
+  "avatar_url": "https://i1.sndcdn.com/avatars-ZVPMPvsshtCJY2tq-MxLzhw-large.jpg"
+ },
+ "hiddenPages": 0,
+ "recent": [
+  {
+   "id": 2409910023,
+   "title": "Wireframe",
+   "permalink": "wireframe-80",
+   "permalink_url": "https://soundcloud.com/velour02/wireframe-80",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910020,
+   "title": "War Machine",
+   "permalink": "war-machine-69",
+   "permalink_url": "https://soundcloud.com/velour02/war-machine-69",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910017,
+   "title": "Weekend Lobbies Last Forever",
+   "permalink": "weekend-lobbies-last-forever-72",
+   "permalink_url": "https://soundcloud.com/velour02/weekend-lobbies-last-forever-72",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910014,
+   "title": "System Tunnel",
+   "permalink": "system-tunnel-44",
+   "permalink_url": "https://soundcloud.com/velour02/system-tunnel-44",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910011,
+   "title": "Wireless Mics Catch Laughter",
+   "permalink": "wireless-mics-catch-laughter-81",
+   "permalink_url": "https://soundcloud.com/velour02/wireless-mics-catch-laughter-81",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910008,
+   "title": "Wired Controller",
+   "permalink": "wired-controller-76",
+   "permalink_url": "https://soundcloud.com/velour02/wired-controller-76",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910005,
+   "title": "Wired Nights",
+   "permalink": "wired-nights-77",
+   "permalink_url": "https://soundcloud.com/velour02/wired-nights-77",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409910002,
+   "title": "Wireless Signal",
+   "permalink": "wireless-signal-82",
+   "permalink_url": "https://soundcloud.com/velour02/wireless-signal-82",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909999,
+   "title": "Weekend Respawn",
+   "permalink": "weekend-respawn-74",
+   "permalink_url": "https://soundcloud.com/velour02/weekend-respawn-74",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909996,
+   "title": "Urban Fighters Break Concrete",
+   "permalink": "urban-fighters-break-concrete-60",
+   "permalink_url": "https://soundcloud.com/velour02/urban-fighters-break-concrete-60",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909993,
+   "title": "System Highway",
+   "permalink": "system-highway-40",
+   "permalink_url": "https://soundcloud.com/velour02/system-highway-40",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909990,
+   "title": "Underground Base",
+   "permalink": "underground-base-55",
+   "permalink_url": "https://soundcloud.com/velour02/underground-base-55",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909987,
+   "title": "Urban Multiplayer",
+   "permalink": "urban-multiplayer-61",
+   "permalink_url": "https://soundcloud.com/velour02/urban-multiplayer-61",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909984,
+   "title": "Urban Warfare",
+   "permalink": "urban-warfare-63",
+   "permalink_url": "https://soundcloud.com/velour02/urban-warfare-63",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909981,
+   "title": "Victory Screen",
+   "permalink": "victory-screen-66",
+   "permalink_url": "https://soundcloud.com/velour02/victory-screen-66",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909978,
+   "title": "Violet Portals Open Somewhere",
+   "permalink": "violet-portals-open-somewhere-67",
+   "permalink_url": "https://soundcloud.com/velour02/violet-portals-open-somewhere-67",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909975,
+   "title": "Systemlink",
+   "permalink": "systemlink-47",
+   "permalink_url": "https://soundcloud.com/velour02/systemlink-47",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909972,
+   "title": "Weekend Sessions End Slowly",
+   "permalink": "weekend-sessions-end-slowly-75",
+   "permalink_url": "https://soundcloud.com/velour02/weekend-sessions-end-slowly-75",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909969,
+   "title": "Voices Echo Through Headsets",
+   "permalink": "voices-echo-through-headsets-68",
+   "permalink_url": "https://soundcloud.com/velour02/voices-echo-through-headsets-68",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909966,
+   "title": "Wired Transit",
+   "permalink": "wired-transit-79",
+   "permalink_url": "https://soundcloud.com/velour02/wired-transit-79",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909963,
+   "title": "Wasteland Signal",
+   "permalink": "wasteland-signal-71",
+   "permalink_url": "https://soundcloud.com/velour02/wasteland-signal-71",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909960,
+   "title": "Underground Match",
+   "permalink": "underground-match-56",
+   "permalink_url": "https://soundcloud.com/velour02/underground-match-56",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909957,
+   "title": "Warzone",
+   "permalink": "warzone-70",
+   "permalink_url": "https://soundcloud.com/velour02/warzone-70",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909954,
+   "title": "XP",
+   "permalink": "xp-83",
+   "permalink_url": "https://soundcloud.com/velour02/xp-83",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909951,
+   "title": "Weekend Matchmaking",
+   "permalink": "weekend-matchmaking-73",
+   "permalink_url": "https://soundcloud.com/velour02/weekend-matchmaking-73",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909948,
+   "title": "Zero Hour",
+   "permalink": "zero-hour-84",
+   "permalink_url": "https://soundcloud.com/velour02/zero-hour-84",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909945,
+   "title": "Urban Dashboard",
+   "permalink": "urban-dashboard-59",
+   "permalink_url": "https://soundcloud.com/velour02/urban-dashboard-59",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909942,
+   "title": "Velocity Demons Own Highways",
+   "permalink": "velocity-demons-own-highways-64",
+   "permalink_url": "https://soundcloud.com/velour02/velocity-demons-own-highways-64",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909939,
+   "title": "Turbo Assault",
+   "permalink": "turbo-assault-54",
+   "permalink_url": "https://soundcloud.com/velour02/turbo-assault-54",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909936,
+   "title": "Underground Server",
+   "permalink": "underground-server-58",
+   "permalink_url": "https://soundcloud.com/velour02/underground-server-58",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909933,
+   "title": "Titanfall",
+   "permalink": "titanfall-52",
+   "permalink_url": "https://soundcloud.com/velour02/titanfall-52",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909930,
+   "title": "Underground Menu",
+   "permalink": "underground-menu-57",
+   "permalink_url": "https://soundcloud.com/velour02/underground-menu-57",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909927,
+   "title": "System Updates Interrupt Triumph",
+   "permalink": "system-updates-interrupt-triumph-46",
+   "permalink_url": "https://soundcloud.com/velour02/system-updates-interrupt-triumph-46",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909924,
+   "title": "Tactical Ghost",
+   "permalink": "tactical-ghost-48",
+   "permalink_url": "https://soundcloud.com/velour02/tactical-ghost-48",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909921,
+   "title": "System Update",
+   "permalink": "system-update-45",
+   "permalink_url": "https://soundcloud.com/velour02/system-update-45",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909918,
+   "title": "Urban Select",
+   "permalink": "urban-select-62",
+   "permalink_url": "https://soundcloud.com/velour02/urban-select-62",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909915,
+   "title": "System Breach",
+   "permalink": "system-breach-38",
+   "permalink_url": "https://soundcloud.com/velour02/system-breach-38",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909912,
+   "title": "Wired Skyline",
+   "permalink": "wired-skyline-78",
+   "permalink_url": "https://soundcloud.com/velour02/wired-skyline-78",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909909,
+   "title": "Triggered",
+   "permalink": "triggered-53",
+   "permalink_url": "https://soundcloud.com/velour02/triggered-53",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909906,
+   "title": "Tactical Horizon",
+   "permalink": "tactical-horizon-49",
+   "permalink_url": "https://soundcloud.com/velour02/tactical-horizon-49",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909903,
+   "title": "System Ready",
+   "permalink": "system-ready-43",
+   "permalink_url": "https://soundcloud.com/velour02/system-ready-43",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909900,
+   "title": "Victory Lap",
+   "permalink": "victory-lap-65",
+   "permalink_url": "https://soundcloud.com/velour02/victory-lap-65",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909897,
+   "title": "Tactical Rush",
+   "permalink": "tactical-rush-50",
+   "permalink_url": "https://soundcloud.com/velour02/tactical-rush-50",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909894,
+   "title": "System Overdrive",
+   "permalink": "system-overdrive-42",
+   "permalink_url": "https://soundcloud.com/velour02/system-overdrive-42",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909891,
+   "title": "Thunder Drums Charge Battleships",
+   "permalink": "thunder-drums-charge-battleships-51",
+   "permalink_url": "https://soundcloud.com/velour02/thunder-drums-charge-battleships-51",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909888,
+   "title": "System Link",
+   "permalink": "system-link-41",
+   "permalink_url": "https://soundcloud.com/velour02/system-link-41",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909885,
+   "title": "System Cache",
+   "permalink": "system-cache-39",
+   "permalink_url": "https://soundcloud.com/velour02/system-cache-39",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909882,
+   "title": "Subwoofers Rattle Cheap Desks",
+   "permalink": "subwoofers-rattle-cheap-desks-35",
+   "permalink_url": "https://soundcloud.com/velour02/subwoofers-rattle-cheap-desks-35",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909879,
+   "title": "Steel Titans Breach Orbit",
+   "permalink": "steel-titans-breach-orbit-30",
+   "permalink_url": "https://soundcloud.com/velour02/steel-titans-breach-orbit-30",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  },
+  {
+   "id": 2409909876,
+   "title": "Stormfront",
+   "permalink": "stormfront-32",
+   "permalink_url": "https://soundcloud.com/velour02/stormfront-32",
+   "created_at": "2026-09-29T14:03:08Z",
+   "description": "",
+   "tag_list": "\"Dance & EDM\" Dubstep",
+   "genre": "Dubstep",
+   "playback_count": null,
+   "likes_count": null,
+   "comment_count": null,
+   "user_id": 1672453343,
+   "publisher_metadata": {
+    "writer_composer": "Josh Baker"
+   }
+  }
+ ]
+}
