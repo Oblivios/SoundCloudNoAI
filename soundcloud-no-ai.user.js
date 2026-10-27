@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SoundCloud No AI
 // @namespace    https://github.com/Oblivios/SoundCloudNoAI
-// @version      1.0.0
+// @version      1.0.1
 // @description  Detects likely AI-generated / content-farm tracks on SoundCloud and skips them automatically.
 // @author       Oblivios
 // @match        https://soundcloud.com/*
@@ -728,14 +728,28 @@
   // page would race through their whole list.
   const PICK_WINDOW = 3000;
   const PICK_TARGETS = '.sc-button-play, .playButton, .waveform, .compactTrackListItem, .trackItem, .queue__itemWrapper';
+  const PLAYER_CONTROLS = '.skipControl, .playControl';
   let pickedAt = 0;
+  // Last time the user played, paused or skipped anything, picks included.
+  let touchedAt = 0;
   const chosenArtists = new Set();
   document.addEventListener(
     'click',
     (e) => {
       const t = e.target;
-      if (!e.isTrusted || !(t instanceof Element) || t.closest('.playControls__elements, .sna')) return;
-      if (t.closest(PICK_TARGETS)) pickedAt = Date.now();
+      if (!e.isTrusted || !(t instanceof Element) || t.closest('.sna')) return;
+      if (t.closest('.playControls__elements')) {
+        if (t.closest(PLAYER_CONTROLS)) touchedAt = Date.now();
+      } else if (t.closest(PICK_TARGETS)) pickedAt = touchedAt = Date.now();
+    },
+    true
+  );
+  // SoundCloud's previous / next shortcuts.
+  document.addEventListener(
+    'keydown',
+    (e) => {
+      if (!e.isTrusted || !e.shiftKey || (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight')) return;
+      if (!(e.target instanceof Element) || !e.target.closest('input, textarea, [contenteditable]')) touchedAt = Date.now();
     },
     true
   );
@@ -745,20 +759,27 @@
   const recentSkips = [];
 
   async function onTrackChange(path) {
-    const picked = Date.now() - pickedAt < PICK_WINDOW;
+    const startedAt = Date.now();
+    const picked = startedAt - pickedAt < PICK_WINDOW;
     current = { path, pending: true };
     render();
     try {
       const info = await analyse(path);
       if (currentTrackPath() !== path) return; // user moved on meanwhile
+      // The user played or skipped something while this was being checked.
+      // SoundCloud only redraws the now-playing link once the new track has
+      // loaded, so the link can still show this one and a skip would land on
+      // the song they just chose.
+      const overtaken = touchedAt > startedAt;
       const { verdict, score } = info.result;
       const uid = info.track.user_id;
       const wantsSkip = verdict === 'ai' || (settings.skipSuspects && verdict === 'suspect');
       if (wantsSkip && picked) chosenArtists.add(uid);
-      const spared = picked || allowed.has(path) || chosenArtists.has(uid);
+      const spared = picked || overtaken || allowed.has(path) || chosenArtists.has(uid);
       let outcome = null;
       if (trusted[uid]) outcome = 'Trusted';
       else if (wantsSkip && picked) outcome = 'You picked it';
+      else if (wantsSkip && overtaken) outcome = 'You took over';
       else if (wantsSkip && spared) outcome = 'Allowed';
       else if (wantsSkip && !settings.enabled) outcome = 'Auto-skip off';
       else if (verdict === 'suspect') outcome = 'Kept playing';

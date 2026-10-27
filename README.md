@@ -38,6 +38,7 @@ It stays out of your way:
 
 - It only skips songs that come on by themselves: autoplay, stations, the next song in a playlist.
 - A song you start yourself always plays, and so do that artist's other songs until you reload the page. You can still open an AI artist's page and listen on purpose.
+- If you press play, next or previous while it's still checking a song, it leaves that song to you instead of skipping.
 - If AI songs keep coming one after another, it pauses after a few instead of skipping through them all.
 
 ## See why
@@ -124,6 +125,12 @@ node tools/e2e.mjs https://soundcloud.com/velour02/tracks https://soundcloud.com
 ```
 
 `tools/e2e.mjs` is a live smoke test. It opens the pages in a headless Chrome/Edge, injects the script and reports what the player bar shows. SoundCloud asks logged-out sessions to sign in before playing, so the test fakes the "now playing" link instead. Everything except the final click on "next" gets exercised.
+
+```bash
+node tools/race.mjs
+```
+
+`tools/race.mjs` checks, offline, that a skip never lands on a song you chose yourself. An AI track is still being checked when you press play on another song or press next. SoundCloud's "now playing" link keeps showing the AI track until the new one has loaded, so a skip at that moment would hit your song.
 
 ```bash
 node tools/screenshots.mjs

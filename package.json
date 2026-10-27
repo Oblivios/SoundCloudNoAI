@@ -1,6 +1,6 @@
 {
   "name": "soundcloud-no-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Userscript that detects and skips likely AI-generated tracks on SoundCloud.",
   "license": "MIT",
@@ -8,7 +8,8 @@
     "test": "node --test test/score.test.js",
     "check": "node tools/check.mjs",
     "preview": "node tools/preview.mjs",
-    "screenshots": "node tools/screenshots.mjs"
+    "screenshots": "node tools/screenshots.mjs",
+    "race": "node tools/race.mjs"
   },
   "engines": {
     "node": ">=18"
